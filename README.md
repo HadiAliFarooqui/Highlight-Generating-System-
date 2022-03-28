@@ -12,3 +12,5 @@ the scores from the newspaper (which is kinda boring). Or imagine you are creati
 * Librosa 
 * MoviePi
 
+#### **Flow Chart _(for better understanding)_:** 
+![image](https://user-images.githubusercontent.com/52156264/160380363-907c99b1-3662-4531-b585-1dde041e741e.png)
