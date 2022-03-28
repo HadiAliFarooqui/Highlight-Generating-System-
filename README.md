@@ -14,3 +14,17 @@ the scores from the newspaper (which is kinda boring). Or imagine you are creati
 
 #### **Flow Chart _(for better understanding)_:** 
 ![image](https://user-images.githubusercontent.com/52156264/160380363-907c99b1-3662-4531-b585-1dde041e741e.png)
+
+___
+
+### 2. Document Summarization:
+This feature allows the users to create an abstract of any document. Let's consider a document having 5000 words. If you're an average reader, it will take around 16 - 18  minutes to read the entire document. With the help of our feature, one can easily produce an authentic abstract just by uploading their document and then by one click, your abstract will be displayed on the screen (5000 words will be compressed to 500 to 800 words approx). __Booyah! it's time saviour__. 
+
+#### **Technologies used:** 
+* Python
+* NLP
+* NLTK 
+
+#### **Here is a Flow Chart which gives us crystal clear understanding of how our algorithm works _(for better understanding)_:** 
+![image](https://user-images.githubusercontent.com/52156264/160382692-8ba7c3f1-20ce-4741-b2a7-038fa3f7cea6.png)
+
